@@ -44,18 +44,6 @@ Have a look at the issues or merge requests first, then follow instructions in [
 
 Refer to this [QA](https://stackoverflow.com/questions/45517733/how-to-publish-docker-images-to-docker-hub-from-gitlab-ci). tldr; I only updated a few environment variables in gitlab-ci settings, this is optional.
 
-## Shameless plug
-
-I made this for free as a gift to the video game community. If this tool helped you, feel free to become a patron for [Totema Studio](https://totemastudio.com) on Patreon: :beers:
-
-[![Totema Studio Logo](./doc/totema-studio-logo-217.png)](https://patreon.com/totemastudio)
-
-[![Become a Patron](./doc/become_a_patron_button.png)](https://www.patreon.com/bePatron?c=1073078)
-
-## Want to chat?
-
-Join us on our discord channel at [totema.studio/discord](https://totema.studio/discord), there's a technical channel in there mostly dedicated to this tool. :+1:
-
 ## License
 
 [MIT](LICENSE.md) © [Gabriel Le Breton](https://gableroux.com)

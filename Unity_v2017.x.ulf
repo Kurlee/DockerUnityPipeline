@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+    <License id="Terms">
+        <MachineBindings>
+            <Binding Key="1" Value="f905941293e0460c80149ecf9d9ad61f"/>
+            <Binding Key="2" Value="f905941293e0460c80149ecf9d9ad61f"/>
+        </MachineBindings>
+        <MachineID Value="50L1asUCxJmqdzSHStLyvHSyWac="/>
+        <SerialHash Value="1e605a6a022c4e59cdb3eaa8520198e9b76c9aa0"/>
+        <Features>
+            <Feature Value="33"/>
+            <Feature Value="1"/>
+            <Feature Value="12"/>
+            <Feature Value="2"/>
+            <Feature Value="24"/>
+            <Feature Value="3"/>
+            <Feature Value="36"/>
+            <Feature Value="17"/>
+            <Feature Value="19"/>
+            <Feature Value="62"/>
+        </Features>
+        <DeveloperData Value="AQAAAEY0LVRHUTctQlE0Ri1IRlFaLVJCWTgtNVlBOA=="/>
+        <SerialMasked Value="F4-TGQ7-BQ4F-HFQZ-RBY8-XXXX"/>
+        <StartDate Value="2019-05-30T00:00:00"/>
+        <UpdateDate Value="2019-09-19T10:53:27"/>
+        <InitialActivationDate Value="2019-05-30T22:43:18"/>
+        <LicenseVersion Value="6.x"/>
+        <ClientProvidedVersion Value="2017.2.0"/>
+        <AlwaysOnline Value="false"/>
+        <Entitlements>
+            <Entitlement Ns="unity_editor" Tag="UnityPersonal" Type="EDITOR" ValidTo="9999-12-31T00:00:00"/>
+        </Entitlements>
+    </License>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>oKnzF1lbTocmKCyXWJkTYWwlgVk=</DigestValue></Reference></SignedInfo><SignatureValue>TLrURbDyDZGWHChd4ewuzjqWg455KOFTAZ3gSGmpZnQe/5Q4xPFuRwesS+ujUKXJrr+xMq6rWxZZ
+/GnW4fRnNEQ6800ucj5s9SNX4HGgCyY/taeihTqFVaZifnnnjzkaD2NSGzTDBmDj32z6SHw4UX7j
+WpgQKo8idCVTg12yrjYXzzT++5Ls57Kg/4iYHAT+PezoCDuuO3fWw8ddUMb19eGx/QrrkBizDsXh
+A7aoyk1M+hNBycZmYz5KK4W3RWWum9o8QTALCCpCumuWjWTDtE2mkv0ZFM92sSssljt9PX9C5tSY
+huFSN5FFJAZQxdN1p18QDvkt+iwN0I1ZwHcH9g==</SignatureValue></Signature></root>
